@@ -2,7 +2,7 @@ import { MapContainer, TileLayer, Marker, Popup, Polyline, Circle, CircleMarker 
 import 'leaflet/dist/leaflet.css'
 import L from 'leaflet';
 
-const icon = L.icon({ iconUrl: "/images/train-icon.png" })
+const icon = L.icon({ iconUrl: "/Images/train-icon.png" })
 
 const blueOptions = { color: 'blue' }
 const redOptions = { color: 'red' }
